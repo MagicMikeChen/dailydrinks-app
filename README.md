@@ -1,3 +1,8 @@
+run $ yarn install
+run $ yarn build:dev
+run $ yarn dev-server
+the app wil show up in localhost:8080/
+
 This app is also support RWD.
 
 app.js/
